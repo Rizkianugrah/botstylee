@@ -90,7 +90,7 @@ global.log = async function log(data, data2, data3) {
 global.owner = [
 	//  ['6281387089252'],
 	//['6283199789390'],
-	
+	//[''],
 	['6281387089252', '𝓜𝓪𝓾𝓵𝓪𝓷𝓪 𝓨𝓾𝓼𝓾𝓯', true]
 	// [number, dia creator/owner?, dia developer?]
 ] // Put your number here
