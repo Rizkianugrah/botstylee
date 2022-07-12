@@ -37,7 +37,7 @@ global.error = `*Cᴀɴ\'ᴛ Fᴇᴛᴄʜɪɴɢ Dᴀᴛᴀ*`
 global.profil = fs.readFileSync("./src/botstyle.png")
 global.zippy = (await import('./lib/zippy.cjs')).zippy
 global.tiny = (await import('./lib/tiny.cjs')).default
-global.gc = "https://chat.whatsapp.com/KihEAYjKr04LI4uUrbiiip"
+global.gc = "https://chat.whatsapp.com/FXSFCCYMGveGEcnA9HVEtm"
 global.gh = "https://github.com/botstylee"
 global.yt = "https://youtube.com/channel/UCrNO1yUYW0i3xsJp4NGBh4Q"
 function ucapan() {
@@ -88,10 +88,10 @@ global.log = async function log(data, data2, data3) {
 	}
 }
 global.owner = [
-	//  ['6281234288573'],
-	//['12546153210'],
-	//['62895368900456'],
-	['62895368900456', 'Benniismael', true]
+	//  ['6281387089252'],
+	//['6283199789390'],
+	
+	['6281387089252', '𝓜𝓪𝓾𝓵𝓪𝓷𝓪 𝓨𝓾𝓼𝓾𝓯', true]
 	// [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -109,8 +109,8 @@ global.APIKeys = { // APIKey Here
 // Sticker WM
 global.packname = 'ig : Beni_230\'Benniismael'
 global.author = 'BENNIISMAEL & GHOST'
-global.wm = 'BOTSTYLEE'
-global.nomorown = '62895368900456'
+global.wm = '𝓜𝓪𝓾𝓵𝓪𝓷𝓪 𝓨𝓾𝓼𝓾𝓯'
+global.nomorown = '6281387089252'
 global.multiplier = 69 // The higher, The harder levelup
 global.titlebot = `⫹⫺ RPG BOT Whatsapp | By ${author}`
 global.rpg = {
