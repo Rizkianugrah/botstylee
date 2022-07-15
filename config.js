@@ -37,9 +37,9 @@ global.error = `*Cᴀɴ\'ᴛ Fᴇᴛᴄʜɪɴɢ Dᴀᴛᴀ*`
 global.profil = fs.readFileSync("./src/botstyle.png")
 global.zippy = (await import('./lib/zippy.cjs')).zippy
 global.tiny = (await import('./lib/tiny.cjs')).default
-global.gc = "https://chat.whatsapp.com/FXSFCCYMGveGEcnA9HVEtm"
+global.gc = "https://chat.whatsapp.com/D2UYbSKkj0PCmy0nG0mYCd"
 global.gh = "https://github.com/botstylee"
-global.yt = "https://youtube.com/channel/UCrNO1yUYW0i3xsJp4NGBh4Q"
+global.yt = "https://youtube.com/channel/UCGAsDPrOq2irv9xqpG-NEuw"
 function ucapan() {
 	const time = moment.tz('Asia/Jakarta').format('HH')
 	var res
@@ -107,8 +107,8 @@ global.APIKeys = { // APIKey Here
 	'https://ghostui-api.herokuapp.com/': 'OC2eTK'
 }
 // Sticker WM
-global.packname = 'ig : Beni_230\'Benniismael'
-global.author = 'BENNIISMAEL & GHOST'
+global.packname = 'maulana_yusuf.id'
+global.author = 'Yusup & GHOST'
 global.wm = '𝓜𝓪𝓾𝓵𝓪𝓷𝓪 𝓨𝓾𝓼𝓾𝓯'
 global.nomorown = '6281387089252'
 global.multiplier = 69 // The higher, The harder levelup
